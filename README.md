@@ -1,8 +1,8 @@
 # draggable-div
 easy draggable component wrapper [react, typescript, tailwindCSS]
-60 lines of code
 
-# minimal baggage:
+## minimal baggage:
+~ 60 lines of code
 Only libraries required are:
 - React
 - clsx
